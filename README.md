@@ -1,7 +1,8 @@
 ## Hi 👋 My name is Chiranjeevi 
 
 # 💫 About Me:
-Engineering student | Java, Python & C | Building stuff, fixing bugs, staying curious | Vibe coder | Designs sm posters
+Engineering student | Java, Python & C | Building stuff, fixing bugs, staying curious 
+Vibe coder | Designs sm posters | Still Learning
 
 
 ## 🌐 Socials:
