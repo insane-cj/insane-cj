@@ -13,7 +13,7 @@
 - Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends >⩊<
 - listening to music.
-- Check out my portfolio at [portfolio-cj.com](https://portfolio-cj.com) (Still Building)
+- Check out my portfolio at [maybecj](https://maybecj.web.app) (Still Building)
 
 <br><br>
 
